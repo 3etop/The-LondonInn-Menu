@@ -1,0 +1,9 @@
+# Archivos y carpetas a ignorar
+node_modules/
+dist/
+.env
+*.zip
+*.rar
+*.7z
+.DS_Store
+Thumbs.db
